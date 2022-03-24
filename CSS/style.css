@@ -1,0 +1,27 @@
+.one{
+color: green;
+font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+   text-decoration: underline red;
+}
+.two{
+  color: darkred; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  text-decoration: underline darkred;
+}
+p{
+    color: deepskyblue;
+    font-family: fantasy;
+}
+tr{
+    background-color: gold;
+}
+li {
+    list-style-image: linear-gradient(#ff7a2f 0, #ff7a2f 50%, #ffb214 50%);
+    font-family: serif;
+    font-style: italic;
+    font-size: 20px;
+  }
